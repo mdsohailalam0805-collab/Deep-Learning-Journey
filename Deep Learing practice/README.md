@@ -22,7 +22,7 @@ This repository documents my journey of learning **Deep Learning** from the grou
 * NumPy
 * Pandas
 * Matplotlib
-* TensorFlow
+* TensorFlow Pytorch
 * Keras
 * Jupyter Notebook
 
