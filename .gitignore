@@ -1,4 +1,13 @@
+# Virtual Environment
 .venv/
+
+# Python Cache
 __pycache__/
 *.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Large Dataset Files
+CNN/mnist_train.csv
+CNN/mnist_test.csv
